@@ -1,0 +1,22 @@
+{
+  "name": "barley",
+  "version": "0.0.0",
+  "description": "A portfolio project for filter twitter and provide a REST API for twitter content",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "javascript",
+    "node",
+    "REST"
+  ],
+  "author": "James Bradd",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "~1.2.5",
+    "socket.io": "~1.3.7",
+    "express": "~4.13.3"
+  }
+}
